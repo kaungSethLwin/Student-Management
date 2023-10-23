@@ -1,0 +1,17 @@
+body{
+     background-image: url('/images/college.jpg');
+     background-size: cover; 
+     background-repeat: no-repeat;
+     opacity: 1;
+     background-color: #fff;
+     height: 900px;
+    }
+
+    .container{
+		border-radius: 10px;
+	}
+	
+	form{
+		margin-top: 8px;
+	}
+	
